@@ -70,3 +70,11 @@ body {
   color: gray; /* optional: make it lighter */
   opacity: 0.7; /* optional: fade effect */
 }
+
+.true {
+  background-color: lightgreen;
+}
+
+.false {
+  background-color: red;
+}
